@@ -1,7 +1,8 @@
 {
   "name": "@seickhoff/technicals",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reusable technical-analysis library: price model, indicators, candlestick patterns, and math.",
+  "author": "Scott Eickhoff <scott.c.eickhoff@gmail.com>",
   "license": "UNLICENSED",
   "private": false,
   "type": "module",
